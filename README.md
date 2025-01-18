@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/fatiharslan00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatiharslan00/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/fatiharslan316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/fatiharslan316" height="30" width="40" /></a>
-<a href="https://medium.com/@fatih.316.arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fatih.316.arslan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
