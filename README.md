@@ -1,11 +1,9 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdlZDgzNzU1NDRiZDg2NzQ5MGE2MTgxOWM0MWFiYjQwMmVmOTIxZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/5k5vZwRFZR5aZeniqb/giphy.gif"  align="right" width="400" height="250">
 
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">Computer Engineering Student / Data Scientist</h3>
+<h3 align="center">Computer Engineering Student </h3>
 
-- 🌱 I’m currently learning **Python**
 
-- 📝 My blog posts on [https://medium.com/@fatih.316.arslan](https://medium.com/@fatih.316.arslan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
